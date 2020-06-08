@@ -1,0 +1,186 @@
+{
+  "todo": [
+    {
+      "barColor": "yellow",
+      "title": "Prepare motherboard for website branding",
+      "attachment": 3,
+      "comment": 0,
+      "deadline": "",
+      "assignedTo": ["sachin", "deepika"],
+      "image": "",
+      "index": 0,
+      "id": "1"
+    },
+    {
+      "barColor": "red",
+      "title": "Creat an announcement about product launch",
+      "attachment": 1,
+      "comment": 0,
+      "deadline": "",
+      "assignedTo": ["sachin"],
+      "image": "",
+      "index": 1,
+      "id": "2"
+    },
+    {
+      "barColor": "yellow",
+      "title": "Prepare a mood board for LP",
+      "deadline": "Oct, 23",
+      "attachment": 0,
+      "comment": 0,
+      "assignedTo": ["sachin", "deepika", "monica"],
+      "image": "",
+      "index": 2,
+      "id": "3"
+    },
+    {
+      "barColor": "red",
+      "title": "Prepare a mood board for LP",
+      "deadline": "Oct, 23",
+      "attachment": 0,
+      "comment": 1,
+      "assignedTo": ["sachin"],
+      "image": "",
+      "index": 3,
+      "id": "4"
+    }
+  ],
+  "inProgress": [
+    {
+      "barColor": "yellow",
+      "title": "Interview with users",
+      "attachment": 3,
+      "comment": 9,
+      "deadline": "Oct, 23",
+      "assignedTo": ["deepika"],
+      "image": "",
+      "index": 0,
+      "id": "5"
+    },
+    {
+      "barColor": "gray",
+      "title": "Search reference for multicolored background",
+      "attachment": 3,
+      "comment": 0,
+      "deadline": "Oct, 23",
+      "assignedTo": ["sachin"],
+      "image": "image.jpg",
+      "index": 1,
+      "id": "6"
+    },
+    {
+      "barColor": "yellow",
+      "title": "Create UI kit for project",
+      "attachment": 0,
+      "comment": 4,
+      "deadline": "Oct, 23",
+      "assignedTo": ["sachin", "neha", "monica"],
+      "image": "",
+      "index": 2,
+      "id": "7"
+    },
+    {
+      "barColor": "yellow",
+      "title": "Prepare detailed brief for devs & designers",
+      "attachment": 3,
+      "comment": 4,
+      "deadline": "Oct, 23",
+      "assignedTo": ["sachin"],
+      "image": "",
+      "index": 3,
+      "id": "8"
+    }
+  ],
+  "inReview": [
+    {
+      "barColor": "red",
+      "title": "Describe the problem with supermassive black hole",
+      "attachment": 3,
+      "comment": 4,
+      "deadline": "Oct, 23",
+      "assignedTo": ["neha"],
+      "image": "",
+      "index": 0,
+      "id": "9"
+    },
+    {
+      "barColor": "red",
+      "title": "Facebook post about new case study on Behance",
+      "attachment": 0,
+      "comment": 4,
+      "deadline": "Oct, 10",
+      "assignedTo": [],
+      "image": "",
+      "index": 1,
+      "id": "10"
+    },
+    {
+      "barColor": "yellow",
+      "title": "chatbot screens for app",
+      "attachment": 0,
+      "comment": 0,
+      "deadline": "Oct, 23",
+      "assignedTo": [],
+      "image": "chatbot.jpg",
+      "index": 2,
+      "id": "11"
+    },
+    {
+      "barColor": "yellow",
+      "title": "Read Hawking's 'A Brief History of Time'",
+      "attachment": 9,
+      "comment": 16,
+      "deadline": "",
+      "assignedTo": ["neha", "deepika"],
+      "image": "chatbot.jpg",
+      "index": 3,
+      "id": "12"
+    }
+  ],
+  "done": [
+    {
+      "barColor": "red",
+      "title": "Prepare detailed brief for devs & designers",
+      "attachment": 3,
+      "comment": 4,
+      "deadline": "Sept, 29",
+      "assignedTo": ["sachin"],
+      "image": "",
+      "index": 0,
+      "id": "13"
+    },
+    {
+      "barColor": "red",
+      "title": "Skype call with client",
+      "attachment": 0,
+      "comment": 4,
+      "deadline": "Oct, 12",
+      "assignedTo": ["sachin"],
+      "image": "",
+      "index": 1,
+      "id": "14"
+    },
+    {
+      "barColor": "yellow",
+      "title": "Develop a design language for project",
+      "attachment": 9,
+      "comment": 16,
+      "deadline": "Oct, 23",
+      "assignedTo": ["monica", "neha"],
+      "image": "",
+      "index": 2,
+      "id": "15"
+    },
+    {
+      "barColor": "yellow",
+      "title": "Read Hawking's 'A Brief History of Time'",
+      "attachment": 9,
+      "comment": 16,
+      "deadline": "Oct, 23",
+      "assignedTo": ["monica", "neha"],
+      "image": "",
+      "index": 3,
+      "id": "16"
+    }
+  ]
+}
